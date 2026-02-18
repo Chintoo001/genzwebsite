@@ -4,7 +4,7 @@ import React from 'react'
 import Contact from "./Contact/page";
 import Projects from "./projects/page";
 import Hero from "./Hero/page";
-import Reveal from "./reveal/page";
+import Reveal from "../component/reveal/page";
 import Skills from "./skills/page";
 
 const page = () => {
