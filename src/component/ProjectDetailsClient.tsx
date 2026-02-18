@@ -196,7 +196,7 @@ export default function ProjectDetailsClient({ project }: { project: Project }) 
           </p>
 
           <Link
-            href="/contact"
+            href="/Contact"
             className="bg-white text-black px-6 py-2.5 rounded-full font-semibold hover:scale-105 transition"
           >
             Start Your Project

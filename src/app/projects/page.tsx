@@ -162,7 +162,7 @@ export default function ProjectsPage() {
       </p>
 
       <a
-        href="/contact"
+        href="/Contact"
         className="inline-block bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg text-sm font-medium transition duration-300"
       >
         Contact Me
